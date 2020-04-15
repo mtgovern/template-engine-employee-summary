@@ -6,7 +6,7 @@ This is a software engineering team generator command line application. The appl
 * There is a `package.json`, so make sure to `npm install`.
 
 ## Running the tests
-* Run the tests with `npm run test` at any time.
+* Run the tests with `npm test` at any time.
 
 ## Deployment
 ### User input
